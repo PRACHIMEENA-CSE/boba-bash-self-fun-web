@@ -1,0 +1,20 @@
+h1{
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 38px;
+}
+p{
+    font-size:20px;
+    margin: 5px 8px 20px;
+}
+div{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+img{
+    width: 220px;
+    height: 160px;
+    object-fit: contain;
+    border-radius:  15px;
+    margin: 8px;
+}
